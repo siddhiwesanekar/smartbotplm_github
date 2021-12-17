@@ -1,0 +1,33 @@
+{
+    "name": "smartbotplm12",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "http://localhost:3978/api/messages",
+            "id": "08f1d900-5f07-11ec-b297-c553cec794aa",
+            "appId": "58a3de3f-e384-4bee-9c96-e87ba976dc23",
+            "appPassword": "uoJ#*8]_q-@$akQpQ:*n^LE}oSm68bl5",
+            "endpoint": "http://localhost:3978/api/messages"
+        },
+        {
+            "type": "abs",
+            "subscriptionId": "fab30b02-722f-44ad-9e9a-c27cc51dcd8f",
+            "resourceGroup": "smartbotplm",
+            "serviceName": "58a3de3f-e384-4bee-9c96-e87ba976dc23",
+            "tenantId": "0c25ba3f-a735-4070-a7f2-eaac50b72b41",
+            "id": "172",
+            "appId": "58a3de3f-e384-4bee-9c96-e87ba976dc23"
+        },
+        {
+            "type": "endpoint",
+            "endpoint": "http://localhost:3978/api/messages",
+            "name": "smartbotplm_endpoint",
+            "id": "199"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "C:\\Users\\siddh\\OneDrive\\Desktop\\siddhi1\\plm\\cs-auth-sample\\botbuilder-samples\\18.bot-authentication\\smartbotplm12.bot",
+    "overrides": null
+}
